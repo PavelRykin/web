@@ -1,0 +1,21 @@
+body {
+    width: 1500px;
+    margin: auto;
+    background-color: bisque;
+}
+
+img {
+    width: 700px;
+}
+
+h1 {
+    color: chocolate;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: red;
+}
